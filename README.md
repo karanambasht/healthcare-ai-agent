@@ -47,7 +47,3 @@ CI
 
 License
 - MIT License — see LICENSE file.
-
-If you want, I will:
-- Create the repository in your account once you grant repository-creation access, or
-- Walk you through manual creation & push steps and then open a PR to add features (self-hosted LLM, FHIR sandbox integration, etc).
